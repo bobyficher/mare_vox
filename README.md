@@ -1,17 +1,4 @@
-# mare_vox
 
-A new Flutter project.
+# mare_vox : Fisherman's Weather App (Flutter)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# mare_vox
+This project aims to develop a mobile application (iOS and Android) for saltwater fishermen to access real-time and forecast weather data for chosen sea areas. The app leverages free weather data APIs and NOAA sea chart data to provide basic functionalities essential for planning successful fishing trips.
